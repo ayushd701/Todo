@@ -40,10 +40,6 @@ A simple and user-friendly Todo App built using React and TailwindCSS. Manage yo
 - Open the app to start managing your tasks.
 - Use the intuitive UI to add, edit, delete, and complete your todos.
 
-## Deployment
-
-The app is deployed on Vercel. [Open the app](https://todo-app-snowy-seven.vercel.app/) to start using it.
-
 ## Contributing
 
 Feel free to fork this repository and contribute by submitting pull requests.
